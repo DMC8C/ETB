@@ -4,9 +4,9 @@
   ],
   "proxy_key":"",
   "cantsendinterval":1000,
-  "DISCORD_ID": "",
-  "CMDS": "",
-  "notifs": [
+  "DISCORD_ID": "669750473896755201",
+  "CMDS": "858064389197266964",
+  "notifs": [858064350987550740
     ""
   ],
   "NOTIF_CHANNEL": "",
@@ -40,8 +40,8 @@
   "avoid_devpois_like_the_fucking_plague": true,
   "stop_on_completed": false,
   "selfeval": 120000,
-  "ratio": 1.1,
-  "maxratio": 2,
+  "ratio": 1.07,
+  "maxratio": 1.1,
   "dontdecline": true,
   "mineval": 0,
   "keepmyrares": false,
@@ -58,7 +58,7 @@
   "getridoffast": {},
   "fuckrares": true,
   "rewrite_to_end_if_ratelimited": true,
-  "upgrading_ratio": 0.7,
+  "upgrading_ratio": 0.9,
   "upgrading_max_ratio": 1,
   "onlytradefor": false,
   "sendinterval":2000,
